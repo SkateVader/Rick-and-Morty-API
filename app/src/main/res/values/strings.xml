@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RickAndMortyAPI</string>
+    <string name="character_image">Имя персонажа</string>
+    <string name="textViewName">Rick Sanchez</string>
+    <string name="textViewStatus">Live status: Alive</string>
+    <string name="textViewSpeciesGender">Species and gender: Human (Male)</string>
+    <string name="textViewLastKnownLocation">Last known location: Earth</string>
+    <string name="textViewFirstSeen">First seen in: Pilot</string>
+    <string name="textViewEpisodesTitle">Episodes:</string>
+    <string name="episodeName">Episode Name</string>
+    <string name="episodeCode">S01E01</string>
+    <string name="episodeAirDate">December 2, 2013</string>
+</resources>
